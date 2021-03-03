@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    margin: 0px;
+    color: black;
+    padding-left: 200px;
+    padding-bottom: 200px;
+    font-size: 22px;
+    font-weight: 100;
+    text-align: center;
+    text-indent: 30px;
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav_bar{
+    border-bottom: 1px solid #oooooo;
+    width :860px ;
+    padding:opx 20px 0px 20px
+
+
+}
